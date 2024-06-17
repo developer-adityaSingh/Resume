@@ -1,6 +1,6 @@
 # My Resume
 
-This is my personal resume created using HTML and CSS. You can view it live [here](https://yourusername.github.io/your-repo-name).
+This is my personal resume created using HTML and CSS. You can view it live [here](https://my-resume-ten-psi.vercel.app/).
 
 ## Preview
 
