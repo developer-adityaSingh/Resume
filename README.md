@@ -13,6 +13,6 @@ This is my personal resume created using HTML and CSS. You can view it live [her
 - Easy to update and maintain
 
 ## Contact
--Aditya Singh - adityasingh3902@gmail.com
+- Aditya Singh - adityasingh3902@gmail.com
 
 Project Link: https://github.com/adity3902/Resume
