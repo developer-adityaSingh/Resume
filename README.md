@@ -27,6 +27,6 @@ This resume is hosted using Vercel. To deploy your own version, follow these ste
 4. Once the project is imported, Vercel will automatically deploy it.
 
 ## Contact
-- Aditya Singh - adityasingh3902@gmail.com
+Aditya Singh - adityasingh3902@gmail.com
 
 Project Link: https://github.com/adity3902/Resume
