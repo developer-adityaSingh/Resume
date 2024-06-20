@@ -29,4 +29,4 @@ This resume is hosted using Vercel. To deploy your own version, follow these ste
 ## Contact
 Aditya Singh - adityasingh3902@gmail.com
 
-Project Link: https://github.com/adity3902/Resume
+Project Link: https://github.com/developer-adityaSingh/Resume.git
